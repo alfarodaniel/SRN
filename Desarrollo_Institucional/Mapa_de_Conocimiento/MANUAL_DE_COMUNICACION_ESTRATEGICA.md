@@ -1,0 +1,44 @@
+- Manual de Comunicación Estratégica
+  - Objetivos Específicos
+    - Cumplimiento de la Política Pública para la Gestión del Talento Humano en Bogotá
+    - Contribución a la generación de Ambientes Laborales Incluyentes
+    - Acción afirmativa para garantizar derechos de grupos poblacionales excluidos
+    - Inclusión de resultados de mesas de trabajo con el Departamento Administrativo del Servicio Civil Distrital
+  - Marco Internacional y Constitucional del Enfoque de Derechos Humanos en las Políticas Públicas
+    - Política de Gestión del Talento Humano como marco del Plan de Comunicación Incluyente
+    - Construcción de políticas públicas fruto de procesos colectivos
+    - Participación de diversos actores institucionales y sociales
+  - Lenguaje Inclusivo
+    - Claro
+      - Escrito
+        - Contenido relevante y de fácil entendimiento
+        - Estructuración del texto
+        - Utilización de ayudas visuales
+      - Digital
+        - Utilización de palabras claras y no técnicas
+        - Lenguaje coloquial y de fácil entendimiento
+        - Contenido real y vigente
+        - Implementación de elementos visuales y auditivos
+    - Incluyente
+      - Visibilización de la diversidad y garantía de derechos
+      - Utilización de locuciones colectivas inclusivas
+  - Metodología para Evaluar la Estrategia y Campañas de Comunicación
+    - Encuesta anual con criterios de evaluación
+      - Oportunidad
+      - Precisión
+      - Comprensión
+  - Tipos de Contenido Utilizado en Redes Sociales
+    - Contenidos Informativos
+    - Contenidos Educativos
+    - Contenidos Entretenedores
+  - Herramientas de Ubicación
+    - Materiales de soporte para procesos de inducción y reinducción
+    - Campañas institucionales para fortalecer conceptos y satisfacción de usuarios
+  - Impacto de la Comunicación
+    - Identidad Corporativa
+    - Imagen Institucional
+  - Diversidad y Equidad
+    - Enfoques diferencial-poblacionales
+    - LGBTI
+    - Vejez
+    - Derechos Humanos
