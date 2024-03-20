@@ -1,0 +1,39 @@
+- Procedimiento de Atención Integral en Atención Pre Hospitalaria
+  - Objetivo
+    - Estandarizar actividades relacionadas a la gestión de atención prehospitalaria en urgencias, emergencias o desastres
+  - Alcance
+    - Líder(es) del procedimiento
+      - Dirección de Urgencias
+      - Líder Unidad Funcional de Atención Pre-Hospitalaria
+  - Definiciones
+    - Centro Regulador de Urgencias y Emergencias (CRUE)
+      - Coordinación de atención y resolución de urgencias, emergencias y desastres en el Distrito Capital
+  - Leyes y Resoluciones Relevantes
+    - Ley 1715 de 2015
+    - Ley 1616 de 2013
+    - Resolución 459 de 2012
+    - Resolución 2003 de 2014
+    - Código CIE-10 de 2000
+    - Decreto 451 de 2005
+    - Resolución 1220 de 2010
+    - Resolución 926 de 2017
+    - Ley 2015 de 2020
+    - Resolución 839 de 2017
+  - Recomendaciones Generales
+    - Verificar indicaciones del CRUE
+    - Apertura de Historia Clínica en plataforma Mi Emergencia
+  - Actividades del Procedimiento
+    - Revisar Equipos
+      - Comprobar elementos de seguridad, extintores, llanta de repuesto y herramientas
+    - Reportar Novedades
+      - Informar al Centro Operativo las novedades de la móvil al Médico de turno
+    - Iniciar Turno ante Centro Regulador de Urgencias y Emergencias
+      - Comunicación efectiva con Despachador para inicio de turno
+    - Entregar Móvil
+      - Supervisar entrega de móvil por el resto de la tripulación
+    - Verificar Equipos Biomédicos
+      - Validar funcionamiento de equipos revisados por personal de enfermería
+    - Revisar Lista de Chequeo Insumos
+      - Confirmar existencia y funcionamiento de equipos y medicamentos
+    - Comentar Novedades al Turno Entrante
+      - Informar al personal entrante todas las novedades
