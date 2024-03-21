@@ -1,0 +1,30 @@
+- BRIEF DE COMUNICACIONES
+  - Requisitos para la gestión estratégica de comunicaciones
+    - Solicitud de información básica
+    - Observaciones importantes
+      - Aprobación del jefe del área responsable
+      - Garantía del contenido de la solicitud
+      - Calidad de las imágenes adjuntas
+      - Responsabilidad sobre el uso de imágenes
+      - Tiempos de producción de las piezas
+    - Especificaciones adicionales
+      - Antecedentes
+      - Uso de logos específicos
+      - Fotos e imágenes de referencia
+      - Detalles de la solicitud
+  - Público objetivo
+    - Interno
+    - Externo
+  - Medios de comunicación
+    - Correo institucional
+    - Redes sociales
+    - Intranet
+    - WhatsApp institucional
+    - Página web
+    - Otros medios especificados
+  - Responsabilidades y observaciones
+    - Aprobación del jefe del área responsable
+    - Calidad de las imágenes
+    - Cambios en las piezas durante el proceso
+    - Uso de imágenes que cumplan con la normatividad vigente
+    - Tiempo de respuesta según la complejidad de los cambios
