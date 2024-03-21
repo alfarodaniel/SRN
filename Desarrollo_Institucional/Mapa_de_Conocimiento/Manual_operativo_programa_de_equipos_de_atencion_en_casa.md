@@ -1,0 +1,30 @@
+- Manual Operativo del Programa de Equipos de Atención en Casa
+  - Actividades
+    - Articulación con autoridades locales
+    - Focalización en barrios vulnerables
+    - Atención integral a población vulnerable
+    - Distribución de bienes y recursos
+    - Estructuración de planes de acción
+    - Entrega de informes a la Secretaría Distrital de Salud
+  - Medidas de Mitigación
+    - Inseguridad en áreas específicas
+    - Limitación de herramientas tecnológicas
+    - Disponibilidad de vehículos para equipos de Avanzada
+  - Captación de Información en Campo
+    - Control de variables clave en bases de datos
+    - Mantenimiento de información actualizada y precisa
+    - Uso de Google Forms para captación y registro de datos
+  - Adaptación y Crecimiento del Programa
+    - Identificación oportuna de elementos críticos
+    - Respuesta efectiva a problemáticas presentadas
+  - Importancia de la Coordinación del Proyecto
+    - Garantía de ejecución adecuada del convenio
+  - Atención a Poblaciones Vulnerables
+    - Materno-perinatal
+    - Niños menores de cinco años
+    - Adultos mayores
+    - Personas con condiciones crónicas o discapacidades
+  - Calidad en la Captación y Registro de Información
+    - Herramientas para facilitar la captación de datos
+    - Control de la calidad de la información recopilada
+	
