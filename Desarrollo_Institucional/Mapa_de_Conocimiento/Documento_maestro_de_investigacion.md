@@ -1,0 +1,41 @@
+- Instructivo Documento Maestro de Investigación
+  - Listado Maestro de Documentos
+    - Única versión válida
+    - Disponibilidad
+  - No hacer copias del documento
+    - Riesgo de tener versión desactualizada
+  - Proyectos presentados al CISNORTE
+    - Procesos generales
+    - Lineamientos definidos por CISNORTE
+    - Consulta en Almera
+  - Estudios clínicos por contrato
+    - Procesos establecidos
+    - Manual para el desarrollo de investigación clínica por contrato
+  - Filiación de investigadores vinculados a un proyecto
+    - Vinculación a grupo de investigación avalado por la Subred Norte
+    - Información requerida
+    - Vinculación a Subred Norte E.S.E.
+    - Informar sede si necesario
+  - Línea de educación en investigación y buenas prácticas clínicas
+    - Capacitación del personal
+    - Aspectos relacionados con investigación, análisis de datos y buenas prácticas clínicas
+  - Línea de investigación clínica patrocinada por la industria farmacéutica
+    - Desarrollo, monitoreo y auditoría de protocolos de ensayos clínicos aleatorizados
+    - Centro de investigación de la Subred Norte (CISNORTE)
+  - Consideraciones de los grupos de investigación
+    - Conformación de grupos
+    - Información requerida por CISNORTE
+    - Aval institucional
+    - Administración de contraseñas
+    - Miembros institucionales
+    - Líder del grupo
+  - Recursos generados por overhead o participación en convocatorias
+    - Destino a rubro especial de investigación
+    - Creado por la Dirección Financiera
+  - Contratos con patrocinadores
+    - Generación de dos contratos
+    - Acuerdo sobre retribución
+    - Reconocimiento de overhead
+    - Análisis por Oficina de Gestión del Conocimiento y líder CISNORTE
+    - Definición por el gerente
+    - Póliza de Responsabilidad Civil Extracontractual
