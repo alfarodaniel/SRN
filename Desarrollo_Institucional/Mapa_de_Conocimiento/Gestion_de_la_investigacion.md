@@ -1,0 +1,37 @@
+- Instructivo de Gestión de la Investigación
+  - Objetivo
+    - Definir, documentar y estandarizar la gestión de la investigación
+    - Salvaguardar derechos, principios éticos, seguridad y bienestar de participantes
+  - Alcance y Campo de Aplicación
+    - Conformación de grupos de investigación y semilleros
+    - Manejo de presupuesto
+    - Notificación de decisiones a investigadores
+    - Documentación para revisión ética de proyectos
+  - Competencias Técnicas del Equipo Investigador
+    - Formación adecuada para la conducción del estudio
+    - Conocimiento de postulados éticos nacionales e internacionales
+    - Contar con experto en área de conocimiento específica
+    - Estudiantes con formación académica en temática del proyecto
+  - Evaluación y Aprobación
+    - Formulario de consentimiento informado
+    - Publicidad para obtener participantes
+    - Cumplimiento de aspectos éticos en protocolos de investigación
+    - Seguimiento a investigaciones
+  - Reconocimiento Institucional
+    - Tutoría o coautoría de funcionario de la institución en proyectos
+    - Vinculación de productos a Grupos de Investigación institucionales
+    - Estímulos para servidores que realicen investigación institucional
+  - Prerrogativas (Privilegios)
+    - Otorgamiento de estímulos por investigación institucional
+  - Documentación Requerida
+    - Identificación del estudio
+    - Documentos revisados
+    - Fecha y número del acta de la sesión
+    - Decisiones tomadas y motivación
+    - Integrantes que participaron en la revisión
+    - Procedimientos en caso de reconsideración del proyecto
+  - Representante de la Comunidad en Comités Éticos de Investigación
+    - Representación de valores morales, culturales y sociales de grupos participantes
+  - Colaboración con Grupos de Investigación Institucionales
+    - Tutoría o coautoría de funcionario de la institución en proyectos
+    - Vinculación de productos a Grupos de Investigación institucionales
