@@ -1,0 +1,27 @@
+- Gestión de la Mejora Institucional
+  - Proceso de Mejora Continua
+    - Identificación de Fuentes de Mejora
+      - Auditorías Internas y Externas
+      - Experiencias Exitosas
+    - Herramientas para la Mejora
+      - PAMEC (Programa de Auditoría para el Mejoramiento de la Calidad)
+      - Planes de Mejora Institucional
+    - Equipos de Mejoramiento Institucional
+      - Equipo de Mejoramiento Institucional (Tercer Nivel)
+      - Equipos de Autoevaluación (Segundo Nivel)
+      - Equipos Primarios de Mejoramiento
+  - Evaluación y Seguimiento
+    - Verificación Trimestral del Cumplimiento de Acciones
+    - Monitorización Anual de Indicadores
+  - Gestión Clínica
+    - Mejora de la Seguridad del Paciente
+    - Generación de Documentación Clínica
+  - Mejora Continua
+    - Acciones Recurrentes para Optimizar el Desempeño
+  - Decreto 780 de 2016
+    - Simplificación de Normas en el Sector de la Salud
+  - Recomendaciones Generales
+    - Seguridad de la Información
+    - Gestión del Riesgo Ocupacional
+  - Puntos de Control para Planificar el Mejoramiento
+    - Equipo de la Oficina de Calidad
