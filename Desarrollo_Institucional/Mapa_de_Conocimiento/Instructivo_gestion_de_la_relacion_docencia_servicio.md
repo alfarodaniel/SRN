@@ -1,0 +1,51 @@
+- Gestión de la Relación Docencia Servicio
+  - Comités Docencia Servicio
+    - Partes interesadas
+    - Identificación de necesidades y expectativas
+    - Planes de mejoramiento
+  - Atención personalizada
+    - Oficinas y personal de apoyo
+    - Escenarios de práctica
+  - Comunicación
+    - Correo electrónico
+    - Líneas telefónicas
+  - Contraprestación
+    - Liquidación semestral
+    - Instructivo de Gestión de la Contraprestación
+  - Análisis de Costo - Beneficio
+    - Variables a considerar
+      - Tiempo del personal dedicado a la docencia
+      - Consumo de servicios públicos
+      - Alimentación
+  - Capacitación del personal
+    - Programación con dirección de talento humano
+  - Seguimiento y Monitoreo
+    - Evaluación de la práctica formativa
+    - Puntos importantes a evaluar
+      - Capacidad instalada
+      - Inducción a estudiantes y docentes
+      - Impacto académico en la calidad de servicios de salud
+      - Condiciones de la práctica
+      - Acompañamiento durante la práctica
+      - Trato a estudiantes y pacientes
+      - Valoración de competencias
+      - Evaluación del escenario de práctica
+      - Evaluación de docentes
+  - Perspectiva de Innovación y Aprendizaje
+    - Desarrollo de competencias
+    - Sistema de gestión del conocimiento e innovación
+    - Estímulo y apoyo a la investigación
+  - Normativa Legal
+    - Ley 30 de 1992
+    - Ley 100 de 1993
+    - Ley 115 de 1994
+    - Ley 269 de 1996
+  - Reglamento Interno para Estudiantes
+    - Derechos y deberes de estudiantes
+    - Proceso de carnetización
+  - Objetivo General
+    - Parámetros estandarizados
+    - Planeación del talento humano
+    - Programación de rotaciones de estudiantes
+    - Identificación de necesidades y expectativas
+    - Monitoreo de la relación
