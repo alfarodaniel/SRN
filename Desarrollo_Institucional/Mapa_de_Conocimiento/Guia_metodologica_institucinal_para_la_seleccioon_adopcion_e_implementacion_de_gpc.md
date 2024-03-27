@@ -1,0 +1,24 @@
+- Guía Metodológica Institucional para la Selección, Adopción e Implementación de Guías de Práctica Clínica
+  - Marco Normativo
+    - Resolución 3100 de 2019
+    - Resolución 5095 de 2018
+    - Decreto 780 de 2016
+  - Objetivo
+    - Estandarizar la metodología para adopción e implementación de GPC
+  - Alcance
+    - Profesionales en salud y administrativos
+  - Metodología Institucional
+    - Basada en directrices del Ministerio de Salud y Protección Social
+    - Implementación para fortalecer la gestión clínica
+    - Mejorar el ciclo de atención del paciente
+  - Evaluación crítica de la literatura
+    - Fundamentar las recomendaciones de las guías
+    - Validez interna y externa de la evidencia
+  - Implementabilidad
+    - Características que facilitan su aplicación
+    - Disponibilidad de recursos y capacitación del personal
+  - Difusión
+    - Utilización de herramientas como infografías y flujogramas
+    - Presentación de casos clínicos
+    - Actividades de apropiación de conocimiento
+  - Mejora continua en la adopción e implementación de guías
