@@ -1,0 +1,32 @@
+- Manual para Elaboración de Documentos Institucionales
+  - Objetivos
+    - Identificación, elaboración, revisión, aprobación, actualización y retiro de documentos
+    - Sistema de Gestión de la Subred Integrada de Servicios de Salud Norte E.S.E
+  - Alcance y Campo de Aplicación
+    - Desde la identificación de la necesidad hasta la aprobación y publicación
+    - Aplicación en procesos Estratégicos, Misionales, de Apoyo, de Evaluación
+    - Dirigido a todos los colaboradores de la Subred
+  - Justificación
+    - Basada en el Decreto 1499 de 2017
+    - Importancia del Sistema de Gestión integrado
+  - Estructura Jerárquica de Documentos
+    - Política de calidad y mejoramiento continuo
+    - Manual de calidad
+    - Manual de procesos y procedimientos
+  - Especificaciones de Documentos Misionales
+    - Guías de práctica clínica
+    - Protocolos de atención
+    - Manuales de atención clínica
+    - Instructivos clínicos y procedimientos de atención
+  - Importancia de los Planes
+    - Guiados por objetivos, metas cuantitativas, estrategias, actividades y recursos
+    - Aplicación por personal específico en momentos oportunos
+  - Normativa y Marco Legal
+    - Cumplimiento de normas y estándares del sector de la salud
+  - Gestión Documental
+    - Pilar del Sistema de Gestión
+    - Contribución a la estandarización y normalización de actividades
+  - Importancia de la Especialización
+    - Documentación precisa según la especialidad correspondiente
+  - Planificación Detallada
+    - Necesidad de una planificación estructurada para alcanzar objetivos
