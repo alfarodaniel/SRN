@@ -1,0 +1,34 @@
+- Manual de Bioseguridad
+  - Protección frente a riesgos biológicos, químicos y físicos
+  - Prevención de infecciones asociadas a la atención en salud
+    - Uso de dispositivos médicos
+    - Complicaciones postquirúrgicas
+    - Transmisión entre pacientes y trabajadores de la salud
+  - Control de brotes
+    - Medidas preventivas
+  - Material Radioactivo
+    - Manejo adecuado
+    - Zonas exclusivas
+    - Pantallas protectoras de radiación
+    - Almacenamiento de residuos radiactivos
+  - Higiene de Manos
+    - Directrices de la Organización Mundial de la Salud
+    - Importancia en la prevención de infecciones
+    - Mejora de la práctica en centros sanitarios
+  - Medidas de Protección
+    - Para trabajadores potencialmente expuestos
+  - Manipulación de Muestras en Laboratorios
+    - Pautas de agitación de tubos
+    - Organización en la Cabina de Bioseguridad
+    - Reposo de tubos agitados para reducir aerosoles
+    - Disposición del material en la cabina
+      - Limpieza y separación adecuada de elementos
+  - Mantenimiento
+    - Uso de uniforme protector
+    - Guantes, botas, gafas y máscaras protectoras
+    - Higienización de manos
+    - Notificación de condiciones inseguras
+  - Manejo de Ropa Limpia
+    - Protocolos de transporte separado
+    - Cubrimiento durante el traslado
+    - Uso de carros distintos para ropa limpia y sucia
