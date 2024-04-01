@@ -1,0 +1,56 @@
+- Programa de Seguridad del Paciente
+  - Gestión de Calidad
+    - Talento Humano
+      - Estructura funcional
+    - Planeación Estratégica
+      - Actividades
+        - Verificación del suceso de seguridad
+        - Análisis de evento de atención en salud
+        - Difusión de lecciones aprendidas
+        - Control de acciones preventivas y correctivas
+        - Evaluación de resultados
+        - Matriz de Indicadores de Seguridad del paciente
+  - Desarrollo
+    - Objetivo del programa
+    - Implementación de prácticas seguras
+    - Lineamientos distritales
+  - Alianza y Corresponsabilidad
+    - Participación activa del paciente y su familia
+    - Alianza Profesional de Salud
+  - Gestión del Riesgo en Salud
+    - Protección de la sociedad
+    - Reducción de la productividad
+    - Administración del riesgo
+    - Identificación, medición, control y monitoreo
+  - Articulación con Riesgos
+    - Identificación de eventos adversos
+    - Análisis y gestión desde la prevención
+  - Estrategias
+    - Basadas en evidencia científica
+    - Prevención de eventos adversos
+    - Mejora de la calidad
+    - Protección del paciente
+  - Enfoque Diferencial
+    - Atención a grupos poblacionales
+      - Población afrocolombiana
+      - Población LGTBIQ+
+      - Población enfoque de género
+      - Población Muisca
+      - Población Kichwa
+    - Cosmovisión y particularidades
+  - Marco Normativo
+    - Resolución 1445 de 2006
+    - Decreto 1011 del 2006
+  - Análisis de Factores
+    - Factores humanos
+    - Agentes relacionados con actitudes peligrosas
+    - Errores y falta de adherencia a normas
+  - Acciones y Estrategias
+    - Implementación de herramientas prácticas
+    - Fortalecimiento de procesos de atención
+    - Impacto en la mejora de la calidad
+    - Protección del paciente
+  - Seguimiento y Análisis
+    - Cierre del ciclo de seguimiento
+    - Presentación en comités
+    - Despliegue de lecciones aprendidas
