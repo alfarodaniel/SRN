@@ -1,0 +1,63 @@
+- Programa de Optimización de Antimicrobianos
+  - Alcance
+    - Servicios hospitalarios, urgencias, ambulatorios
+    - Colaboradores asistenciales y administrativos
+    - Involucra pacientes y familiares
+  - Desarrollo
+    - Talento Humano
+      - Equipo interdisciplinario
+        - Infectólogo
+        - Químico farmacéutico
+        - Microbiólogo clínico
+        - Epidemiólogo
+    - Estrategias de uso racional de antimicrobianos
+      - Auditorías con retroalimentación
+      - Rondas semanales de vigilancia y prescripción
+  - Planeación Estratégica
+    - Mejora de resultados clínicos
+    - Reducción de efectos adversos y resistencia
+    - Control de costos
+  - Administración del Riesgo
+    - Identificación de riesgos
+    - Matriz de riesgos
+- Gobernanza y Calidad en Salud
+  - Principios orientadores
+    - Universalidad, equidad, eficiencia
+  - Reuniones mensuales del equipo
+  - Participación en comité de prevención y control
+- Líneas de Intervención
+  - Adopción de guías de práctica clínica
+  - Desarrollo de algoritmos de diagnóstico y tratamiento
+  - Protocolos para pruebas de identificación de microorganismos
+- Articulación con Programas
+  - Control, vigilancia y prevención de infecciones
+  - Farmacovigilancia
+  - Seguridad del paciente
+  - Enfermedades transmisibles
+- Estrategias de Capacitación
+  - Divulgación y difusión de documentos clínicos
+  - Desarrollo de seminarios y talleres
+- Documentos del Programa
+  - Protocolo de diagnóstico rápido
+  - Instructivo para vigilancia de microorganismos
+  - Protocolo de profilaxis antimicrobiana
+  - Formato de solicitud de antimicrobianos
+- Gestión del Conocimiento
+  - Estrategias educativas
+  - Apropiación y uso del conocimiento
+- Resistencia Bacteriana
+  - Estrategias de prevención y control
+- Uso Racional de Antibióticos
+  - Estrategias para optimizar el uso
+- Equipo Interdisciplinario
+  - Colaboración entre especialidades
+- Auditorías Clínicas
+  - Revisión retrospectiva de órdenes de antimicrobianos
+- Protocolos de Tratamiento
+  - Establecimiento de pautas de prescripción
+- Estrategias de Vigilancia
+  - Monitoreo de la prescripción y consumo de antimicrobianos
+- Equipo de Prevención
+  - Participación en comités de control de infecciones
+- Control de Costos
+  - Estrategias para reducir gastos asociados con antimicrobianos
