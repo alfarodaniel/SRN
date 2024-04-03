@@ -1,0 +1,59 @@
+- Programa de Humanización
+  - Política de Humanización
+    - Atención centrada en la persona
+    - Dignidad humana
+    - Cultura organizacional
+    - Competencias del ser
+    - Gestión humanizada
+    - Calidad de vida
+    - Servicios asistenciales
+    - Transformación del sistema de salud
+  - Objetivo
+    - Experiencia satisfactoria para el usuario
+    - Desarrollo de habilidades para colaboradores
+  - Alcance
+    - Colaboradores de servicios administrativos, asistenciales, extramurales y tercerizados
+    - Unidades de baja, mediana y alta complejidad en localidades específicas
+  - Desarrollo
+    - Talento humano
+      - Equipo especializado en humanización de servicios de salud
+      - Profesionales en psicología con experiencia en humanización
+      - Técnico auxiliar administrativo con experiencia en gestión documental
+  - Verificar
+    - Medición de la política de humanización
+      - Encuestas de apropiación de la política
+      - Encuestas de percepción de la cultura de humanización
+  - Hacer
+    - Intervención trato humanizado
+      - Seguimiento, acompañamiento y gestión de casos de colaboradores
+    - Atributos de la política de humanización
+      - Privacidad, confidencialidad y silencio
+      - Estrategias de privacidad y confidencialidad
+      - Estrategias de silencio
+    - Plan de capacitación
+      - Desarrollo de competencias de servicio
+      - Acompañamiento en situaciones de dolor emocional
+      - Comunicación asertiva
+  - Socialización y sensibilización sobre política de humanización
+    - Sensibilizaciones de atributos de la política
+  - Acompañamiento en duelo a familiares de pacientes fallecidos en talleres
+  - Actividades dirigidas al colaborador
+    - Capacitaciones, talleres, sensibilizaciones
+    - Resolución de conflictos, escuchas humanizadas
+    - Gestión de quejas y felicitaciones
+    - Acompañamientos individuales
+    - Aplicación de instrumentos y encuestas de diagnóstico
+  - Actividades dirigidas al usuario
+    - Acompañamiento integral a la familia en momentos de duelo y muerte
+    - Sensibilizaciones, socializaciones, estrategias de escucha
+    - Capacitaciones, estrategias para niños con largas estancias hospitalarias
+    - Estrategias para poblaciones especiales (maternas)
+    - Aplicación de instrumentos y encuestas de diagnóstico de atributos de servicio
+  - Planeación estratégica
+    - Líneas de acción: desarrollo de la cultura de humanización y desarrollo del ser
+    - Política y propósito institucional
+    - Cultura de servicio humanizada en todas las interacciones
+    - Articulación con requerimientos del Sistema Único de Acreditación
+  - Actividades que brindan el andamiaje de la cultura de humanización
+    - Soporte a las acciones realizadas desde el programa
+```
