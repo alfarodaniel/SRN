@@ -1,0 +1,32 @@
+- Flujo de Información y Canales de Comunicación RIAS
+  - Objetivo General
+    - Identificar flujo de información entre Dirección de Gestión de Riesgo y Coordinación de PYD
+  - Alcance y Campo de Aplicación
+    - Niveles jerárquicos involucrados
+  - Enfoque Diferencial
+    - Atención sin discriminación y diferenciación
+  - Desarrollo
+    - Talento Humano
+    - Equipos Biomédicos
+    - Dispositivos Médicos e Insumos Requeridos
+    - Descripción de las Actividades
+      - Identificación y Características de la Población
+      - Planificación de Estrategias de Demanda Inducida
+      - Actividades de Promoción y Mantenimiento para la Salud
+      - Inscripción en la Ruta de Promoción y Mantenimiento
+  - Equipos Dinamizadores de las Rutas
+    - Profesional Especializado
+    - Profesional Universitario
+    - Técnicos Auxiliares de Enfermería
+    - Gestores
+  - Flujo de Información entre Rutas
+    - Ruta de Promoción y Mantenimiento de la Salud
+      - Administración de la Información de la Población
+      - Georreferenciación de la Población
+      - Demandas Inducidas y Citas de Valoración Integral
+    - Servicios de Atención Clínica
+      - Atención a Usuarios
+      - Activación de Rutas de Riesgo
+      - Registro de Datos en el Sistema de Información
+  - Bibliografía
+    - Acuerdo 008 del 2017
