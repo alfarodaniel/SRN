@@ -1,0 +1,27 @@
+- Procedimiento de Gestión Hospitalaria
+  - Atención Integral
+    - Evaluación Médica
+    - Plan de Cuidado Personalizado
+    - Coordinación Interdisciplinaria
+  - Seguridad del Paciente
+    - Identificación de Resultados Pendientes
+    - Cuidados Post Hospitalización
+    - Coordinación con IPS Externas
+  - Comunicación Efectiva
+    - Información Clara al Paciente y Familia
+    - Segunda Opinión
+  - Documentación y Registro
+    - Historia Clínica
+    - Confidencialidad de la Información
+  - Gestión de Riesgos Ocupacionales
+    - Recomendaciones de Salud Ocupacional
+    - Cuidado Postural
+    - Pausas Activas
+  - Humanización en la Atención
+    - Trato Cálido y Humano
+    - Enfoque Diferencial
+    - Igualdad en la Atención
+  - Mejora Continua en la Atención Sanitaria
+    - Calidad en los Servicios de Salud
+    - Evaluación Continua del Paciente
+    - Coordinación Interdisciplinaria
