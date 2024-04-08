@@ -1,0 +1,52 @@
+- Procedimiento Vigilancia en Salud Ambiental
+  - Objetivo
+    - Mejoramiento de condiciones de salud y calidad de vida
+    - Fiscalización sanitaria
+    - Detección, prevención y control de factores de riesgo
+  - Alcance
+    - Fiscalización sanitaria
+    - Modelo de Inspección, Vigilancia y Control Sanitario
+    - Cumplimiento normatividad sanitaria
+    - Identificación de factores de riesgo
+    - Medidas correctivas y preventivas
+  - Líderes del procedimiento
+    - Director de Gestión del Riesgo en Salud
+    - Coordinador del Plan de Intervenciones Colectivas
+    - Referente de Vigilancia en Salud Ambiental
+  - Definiciones
+    - Actas
+    - Convenio
+    - Formulario
+    - Inspección, Vigilancia y Control Sanitario
+    - Medidas sanitarias
+  - Requisitos legales
+    - Ley 9 de 1979
+    - Ley 55 de 1993
+    - Decreto 1843 de 1991
+    - Resolución 1842 de 2009
+    - Ley 711 de 2001
+    - Resolución 2263 de 2004
+    - Resolución 3924 de 2005
+  - Dispositivos médicos e insumos requeridos
+    - Equipos de medición de calidad de agua
+    - Elementos de protección personal
+    - Rodenticida
+    - Jeringas
+    - Termos y pilas refrigerantes
+  - Aspectos Impactos ambientales
+    - Reducción del uso del papel
+    - Clasificación de residuos sólidos
+    - Uso sostenible de energía y agua
+  - Aspectos Gestión Documental
+    - Transferencia al archivo central
+    - Lineamientos de Gestión Documental
+  - Aspectos Humanización del Servicio
+    - Trabajo en equipo
+    - Relaciones interpersonales
+    - Comunicación asertiva
+    - Trato humanizado con usuarios
+  - Necesidades y expectativas de los usuarios
+    - Información sobre procesos de atención en salud
+    - Oportunidad y calidad en la atención
+    - Cumplimiento de planes de trabajo
+    - Respuestas sectoriales e intersectoriales
