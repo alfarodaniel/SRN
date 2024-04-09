@@ -1,0 +1,30 @@
+- Plan de Comunicación Estratégica
+  - Modelo Integrado de Planeación y Gestión
+    - Procesos y estructura organizacional
+  - Objetivo del Plan Estratégico de Comunicaciones
+    - Posicionamiento de la imagen institucional
+    - Dar a conocer los servicios de la entidad
+  - Grupos de Interés
+  - Definición Planificación y Cronograma
+    - Acciones para fortalecer la comunicación interna y externa
+    - Flujos de comunicación: descendente, ascendente, diagonal, horizontal
+  - Diagnóstico DAFO
+    - Debilidades
+      - Falta de presupuesto propio
+      - Falta de estandarización en la señalización de la entidad
+    - Amenazas
+      - Posibles cambios de perfiles claves
+      - Crisis de comunicación
+    - Fortalezas
+      - Cumplimiento de las acciones propuestas
+      - Reconocimiento por parte de los colaboradores de las estrategias
+  - Estrategias de Comunicación
+    - Diseño y publicación de boletines internos y externos
+    - Evaluación de la percepción de la imagen institucional
+    - Aumento de seguidores e interacciones en plataformas digitales
+  - Comunicación Institucional y Sistemas de Información
+    - Acciones para fortalecer la imagen institucional y la interacción con la comunidad
+    - Orientación hacia la mejora de la comunicación interna y externa
+    - Consolidación de una cultura institucional
+    - Creación de un Centro de Investigación en Salud
+    - Potenciación de la difusión de casos exitosos e investigaciones
