@@ -1,0 +1,27 @@
+- Modelo Integral de Atención en Salud
+  - Enfoque diferencial
+    - Ley 1438 de 2011
+    - Ley Estatutaria 1751 de 2015
+    - Determinantes Sociales de la Salud
+  - Atención Primaria en Salud
+    - Política de Atención Integral en Salud (PAIS)
+  - Normativas de salud
+    - Leyes y principios de salud
+    - Integralidad en la prestación de servicios
+  - Planeación estratégica
+    - Caracterización de la población
+    - Regulación de rutas integrales de atención
+    - Gestión del riesgo
+    - Delimitación territorial
+    - Redefinición de roles y esquemas de incentivos
+    - Fortalecimiento del recurso humano en salud
+    - Investigación y innovación
+  - Rutas integrales de atención
+    - Enfermedad pulmonar obstructiva crónica (EPOC)
+    - Trastornos asociados al consumo de sustancias psicoactivas (SPA)
+  - Mejora de la calidad de servicios de salud
+    - Adaptación a las necesidades de la población
+    - Promoción, prevención y tratamiento de enfermedades
+  - Gestión del riesgo en salud
+    - Reducción de morbilidad y mortalidad
+    - Garantía de resultados clínicos satisfactorios
