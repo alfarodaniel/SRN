@@ -1,0 +1,21 @@
+- Manual de servicio al ciudadano con enfoque diferencial
+  - Grupos poblacionales
+    - Edad
+    - Género
+    - Pertenencia étnica
+    - Discapacidad
+  - Marco legal
+    - Política pública
+    - Derecho al acceso a servicios
+    - Sin discriminación
+  - Palabras con vos
+    - Espacios de reflexión
+      - Usuarios hospitalizados
+      - Huerta literaria
+  - Agenda educativa
+    - Derechos y deberes
+    - Medidas de protección
+    - Decálogo del buen trato
+    - Canales de interacción
+    - Recomendaciones generales
+    - Portafolio de servicios
