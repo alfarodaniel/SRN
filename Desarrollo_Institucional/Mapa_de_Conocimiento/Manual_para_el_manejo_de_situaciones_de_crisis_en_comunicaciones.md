@@ -1,0 +1,65 @@
+- Manual para el manejo de situaciones de crisis en comunicaciones
+  - Crisis en Comunicaciones y Emergencias
+    - Tipos de Crisis
+      - Leve
+      - Moderada
+      - Grave
+    - Factores de Impacto
+      - Políticos
+      - Ambientales
+      - Legales
+      - Sociales
+      - Comunitarios
+      - Económicos
+      - Laborales
+      - Seguridad
+      - Corporativos
+      - Emergencias
+    - Probables Escenarios de Crisis
+      - Atención al Ciudadano
+      - Talento Humano
+      - Comercialización de Servicios
+      - Financieros
+      - Área Corporativa
+  - Gestión Estratégica
+    - Capital Reputacional
+      - Relaciones con Partes Interesadas
+      - Gestión de Excelencia
+      - Comunicación Efectiva
+    - Construcción de Confianza
+      - Relaciones Transparentes
+      - Inversión en Relaciones
+  - Marco Conceptual
+    - Marco Legal
+      - Ley 23 de 1982
+      - Constitución Política de Colombia
+      - Decretos 54 y 84 de 2008
+      - Ley 1712 de 2014
+      - Manual Único de Acreditación en Salud
+      - Modelo Integrado de Planeación y Gestión
+  - Desarrollo
+    - Talento Humano
+      - Estructura de la Oficina Asesora de Comunicaciones
+    - Equipos Biomédicos
+    - Dispositivos Médicos e Insumos
+    - Actividades y Justificación
+      - Importancia del Manual en Crisis
+      - Ruta a Seguir en Crisis Institucional
+      - Herramienta de Comunicación Organizacional
+      - Obligatoriedad de Aplicación del Manual
+  - Acciones en Crisis
+    - Transparencia y Apertura
+      - Expresión de Solidaridad
+      - Colaboración con Afectados
+      - Argumentos Sólidos y Veraces
+    - Gestión de la Crisis
+      - Activación de Vocería
+      - Entrevistas de Prensa
+      - Información a Autoridades
+      - Evaluación de la Gestión
+  - Coherencia en Mensajes
+    - Vocero como Versión Oficial
+    - Mantenimiento de la Coherencia
+  - Evaluación y Mejora Continua
+    - Lecciones Aprendidas
+    - Mejora en Futuras Crisis
