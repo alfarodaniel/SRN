@@ -1,0 +1,28 @@
+- Procedimiento Gestión Docencia Servicio
+  - Objetivo
+    - Formación del talento humano en salud
+  - Convenios de docencia-servicio
+    - Relación institucional
+    - Planes de mejora acordados
+  - Definiciones clave
+    - Relación docencia-servicio
+    - Convenio docencia-servicio
+  - Aspectos ambientales y de gestión documental
+    - Campañas de cuidado ambiental
+    - Custodia de informes
+    - Seguridad en la información
+    - Gestión del riesgo ocupacional
+  - Prácticas formativas en salud
+    - Estrategia pedagógica
+    - Integración académica y práctica
+    - Competencias y conocimientos
+    - Supervisión del comité docencia-servicio
+  - Cumplimiento del Convenio Docencia-Servicio
+    - Firma de actas
+    - Liquidación y cobro
+    - Encuestas de satisfacción
+    - Autoevaluación de escenarios de práctica
+    - Planes de mejora
+  - Calidad en servicios de salud
+    - Cultura de seguridad y bienestar
+    - Gestión efectiva de la docencia-servicio
