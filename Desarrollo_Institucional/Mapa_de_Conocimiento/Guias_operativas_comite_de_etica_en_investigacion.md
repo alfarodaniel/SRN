@@ -1,0 +1,28 @@
+- Guías Operativas del Comité de Ética en Investigación
+  - Protección de participantes
+  - Derechos humanos
+  - Pautas éticas internacionales
+    - OMS
+    - CIOMS
+    - UNESCO
+  - Validación de estudios
+    - Metodología
+    - Bioética
+    - Consentimiento informado
+    - Buenas Prácticas Clínicas (BPC)
+    - Normativa en Investigación
+    - Interacciones Medicamentosas
+    - Eventos adversos
+    - Semilleros de investigación
+    - Escritura de artículos científicos
+    - Grupos de investigación
+    - Conflicto de intereses
+    - Fraude en investigación
+  - Radicación de Protocolos de Investigación
+    - Formato institucional
+    - Carta de aprobación
+    - Carta del tutor metodológico
+    - Proyecto de investigación
+    - Hoja de vida de investigadores
+    - Manual del investigador
+    - Proyecto completo
