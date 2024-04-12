@@ -1,0 +1,14 @@
+- Transformacion cultural a travez de la gestion del conocimiento y la innovacion
+  - Aprendizaje Organizacional
+  - Mejora Continua
+  - Calidad en la Prestación de Servicios
+  - Política de Gestión del Conocimiento e Innovación
+  - Transferencia y Apropiación del Conocimiento
+  - Fortalecimiento de Competencias del Recurso Humano en Salud
+  - Investigación y Aplicación en la Práctica Asistencial
+  - Satisfacción del Usuario
+  - Atención Segura, Cálida y Amable
+  - Diagnóstico de Cultura Organizacional
+  - Identificación de Puntos Críticos
+  - Implementación de la 6a Dimensión del MIPG
+  - Mapa del Conocimiento
