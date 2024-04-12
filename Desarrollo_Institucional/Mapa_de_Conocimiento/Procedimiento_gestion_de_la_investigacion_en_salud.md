@@ -1,0 +1,10 @@
+- Procedimiento Gestión de la Investigación en Salud
+  - Identificar necesidades e ideas de investigación
+  - Definir líneas de investigación
+  - Necesidades y expectativas de los usuarios
+  - Enfoque Diferencial
+  - Competencias en investigación y divulgación
+  - Gestión de alianzas con actores externos
+  - Procesos y procedimientos para desarrollo de proyectos de investigación
+  - Fortalecimiento de competencias en investigación
+  - Gestión de participación en investigación con actores externos
