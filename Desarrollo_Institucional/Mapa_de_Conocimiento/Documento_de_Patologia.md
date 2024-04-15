@@ -1,0 +1,28 @@
+- Documento de Patología
+  - Recepción de muestras
+    - Identificación del paciente
+    - Procesamiento
+      - Fijación de muestras
+      - Deshidratación
+      - Inclusión en parafina
+  - Archivo de muestras
+    - Láminas
+      - Secado
+      - Almacenamiento
+    - Bloques de parafina
+      - Rotulación
+      - Almacenamiento
+  - Bioseguridad
+    - Normas de protección
+    - Manejo de desechos
+  - Responsabilidades
+    - Funciones del personal
+    - Supervisión del patólogo
+  - Normativas
+    - Cumplimiento de regulaciones
+  - Documentación
+    - Identificación de muestras
+    - Registro de procedimientos
+  - Gestión
+    - Procedimientos eficientes
+    - Control de calidad
