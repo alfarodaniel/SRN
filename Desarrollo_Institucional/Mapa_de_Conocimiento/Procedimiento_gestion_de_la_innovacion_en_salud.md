@@ -1,0 +1,19 @@
+- Procedimiento gestión de la innovación en salud
+  - Ética en la investigación en salud
+  - Desarrollo de procesos innovadores
+    - Planes de acción
+    - Mesas de trabajo
+    - Proyectos de innovación
+  - Enfoque diferencial
+    - Talento humano
+    - Equipos biomédicos
+    - Dispositivos médicos
+  - Protección de derechos de propiedad intelectual
+    - Leyes y normativas
+  - Sostenibilidad y responsabilidad social
+    - Uso de medios electrónicos
+    - Campañas ambientales
+  - Recomendaciones de seguridad
+    - Información
+    - Riesgo ocupacional
+    - Impactos ambientales
