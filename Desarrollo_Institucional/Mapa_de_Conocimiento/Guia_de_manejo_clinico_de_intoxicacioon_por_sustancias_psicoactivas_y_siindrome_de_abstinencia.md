@@ -1,0 +1,43 @@
+- Guía de Manejo Clínico Intoxicación por Sustancias Psicoactivas y Síndrome de Abstinencia
+  - Intoxicación por sustancias psicoactivas
+    - Manejo clínico
+      - Evaluación inicial
+      - Tratamiento farmacológico
+      - Tratamiento no farmacológico
+    - Escalas de valoración
+      - CIWA  -AR
+      - COWS
+    - Personal de salud
+      - Roles y responsabilidades
+      - Formación necesaria
+    - Remisión a especialistas
+      - Neuroimagen
+      - Unidad de Salud Mental
+    - Prevención del consumo
+      - Políticas nacionales
+      - Leyes de protección
+    - Atención integral
+      - Apoyo familiar
+      - Psicoeducación
+    - Evaluación multidisciplinaria
+      - Historia clínica detallada
+      - Escalas de evaluación de síntomas
+  - Síndrome de abstinencia
+    - Evaluación y tratamiento
+      - Escalas de valoración
+      - Manejo de síntomas
+    - Criterios de egreso
+      - Remisión a Unidad de Salud Mental
+    - Actividades de autocuidado
+      - Asistencia a valoraciones multidisciplinarias
+      - Centros de atención de apoyo
+  - Gestión de urgencias
+    - Escalas de evaluación de síntomas
+      - Temblor
+      - Alteraciones auditivas
+      - Sudoración
+      - Alucinaciones visuales
+      - Ansiedad
+      - Cefalea
+      - Agitación
+      - Orientación y funciones superiores
